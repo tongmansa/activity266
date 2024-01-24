@@ -102,6 +102,6 @@
 
 ### การบ้าน 
 - กำหนดการปล่อยการบ้านช่วงเย็นวันศุกร์ที่ 26 ม.ค.66   
-  - เข้าไปที่ auth.dugga.com กดปุ่ม microsoft เพื่อ log-in ด้วย อีเมล tu ของนักศึกษา หรือเข้าแอพ dugga ใน MS TEAMS
+  - เข้าไปที่ https://auth.dugga.com กดปุ่ม microsoft เพื่อ log-in ด้วย อีเมล tu ของนักศึกษา หรือเข้าแอพ dugga ใน MS TEAMS
 
 
